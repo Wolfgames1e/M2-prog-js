@@ -20,7 +20,9 @@ class App {
 }
 
 let myApp = new App();
-myApp.runApplication(); // Note the added parentheses here
+myApp.runApplication(); 
+
+c
 
 
 
